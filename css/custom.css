@@ -1,0 +1,25 @@
+:root {
+  /* colors */
+  --color-bg: #fdf7f4;
+  --color-header-footer: #a23939;
+  --color-header-text: #fdf7f4;
+  --color-h1: #fdf7f4;
+  --color-h2: #a23939;
+  --color-text: #2d2d2d;
+
+  /* fonts */
+  --font-family-lora: "Lora";
+  --font-family-playfair: "PlayfairDisplay";
+  --font-family-montserrat: "Montserrat";
+  --font-weight-regular: 350;
+  --font-weight-medium: 500;
+  --font-weight-mediumbold: 650;
+  --font-weight-bold: 800;
+
+  /* text sizes */
+  --h1-size: clamp(40px, 4vw, 90px);
+  --h2-size: clamp(30px, 4vw, 75px);
+  --h3-size: clamp(23px, 4vw, 40px);
+  --bodytext-size: clamp(12px, 4vw, 20px);
+  --headertext-size: clamp(18px, 4vw, 32px);
+}
